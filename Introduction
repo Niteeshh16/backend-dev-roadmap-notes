@@ -1,1 +1,17 @@
+How does internet works ??
+
+• Networks: A network is a group of computers connected to share data. The internet is literally an "interconnected network" linking millions of private, public, corporate, and government networks worldwide.
+• Packets: Data is never sent all at once. Instead, files, messages, and web pages are chopped up into tiny digital pieces called packets, each containing the sender's address, the destination address, and a sequence number.
+• Protocols (TCP/IP): These are the universal rules or "languages" computers use to understand each other.
+• 
+	• IP (Internet Protocol): Gives every device a unique numerical address (IP address) and ensures packets are routed to the right destination.
+	• TCP (Transmission Control Protocol): Checks that all packets arrive intact, reassembles them in the correct order, and asks for missing pieces to be resent.
+• Physical Infrastructure: The internet is not invisible or purely "in the cloud." It runs on physical hardware: copper cables, Wi-Fi radio waves, cellular 5G masts, satellites, and massive submarine fiber-optic cables running across ocean floors.
+• Routers and Switches: Switches connect devices within the same local network (like a home or office), while routers act as traffic cops, reading packet addresses and forwarding them across different networks along the fastest pat
+
+
+http is the application layer protocal that handling the or receiving or transmitting the web data on the internet, like photos, videos files.
+   `request
+   `processing    
+`  `response
 
